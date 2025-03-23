@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+.judul-kahfi {
+  background-color: #008080;
+  text-align: center;
+  padding: 40px;
+}
+.ayat {
+  padding-left: 40px;
+}
+.kbl-ayat {
+  background-color: #008080;
+  text-align: center;
+}
+.cerita-1 {
+  text-align: center;
+  padding-top: 20px;
+}
+.cerita-0 {
+  background-color: #008080;
+  text-align: center;
+  padding: 10px;
+}
+.tentang {
+    text-align: center;
+  padding: 10px;
+  padding-top: 30px;
+}
+.video-kembali {
+  background-color: #008080;
+  padding: 10px;
+}

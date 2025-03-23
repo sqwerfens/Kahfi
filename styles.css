@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+header {
+  background: #008080;
+  color: white;
+  padding: 15px 0;
+  margin-top: 140px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  padding: 50px;
+  background: #e0f7fa;
+  padding-top: 60px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #008080;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+footer {
+  background: #008080;
+  color: white;
+  padding: 10px 0;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+.ayah {
+  padding-left: -20px;
+}
+.kahkah {
+  background-color: #008080;
+  padding: 40px;
+}
+.judul1 {
+  background-color: #008080;
+  text-align: center;
+  padding: 10px;
+}
+.tombol {
+    display: flex;
+   justify-content: space-between;
+   
+}
