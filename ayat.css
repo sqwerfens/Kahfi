@@ -35,3 +35,6 @@ body {
   background-color: #008080;
   padding: 10px;
 }
+.text {
+  text-align: justify;
+}
